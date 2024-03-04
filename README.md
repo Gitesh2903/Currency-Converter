@@ -24,6 +24,8 @@ Contributing:
 Contributions to enhance the currency converter application, add new features (such as historical exchange rate lookup or favorite currency lists), improve the user interface, or fix bugs are welcome. If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
 
 
-# Author: Gitesh Yevale
+# Author: 
+Gitesh Yevale
 
-# Contact:yewalegitesh@gmail.com
+# Contact:
+yewalegitesh@gmail.com
